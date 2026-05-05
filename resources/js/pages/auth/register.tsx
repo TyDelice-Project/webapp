@@ -14,7 +14,7 @@ export default function Register() {
     return (
         <AuthLayout
             title="Create an account"
-            description="Enter your details below to create your account"
+            description="Enter your details below to create your account. An administrator will review it before you can sign in."
         >
             <Head title="Register" />
             <Form
